@@ -36,7 +36,7 @@ Link to colab https://colab.research.google.com/drive/1AZk_gHZ4z72G-jK_QN-V5yyJ_
  **Почему процент выравниваний получился именно таким?**
  Процент выравнивания получился достаточно низким, т.к. выравнивание происходило всего на одну хромосому, которая состовляет лишь малую часть генома.
  
- ##Venn diagram
+ ## Venn diagram
  
 **For ENCFF000AKW sample**
 Number of sections from the file ENCFF000AKW that intersect with the file ENCFF130IOE             |  Number of sections from the file ENCFF130IOE that intersect with the file ENCFF000AKW
@@ -44,7 +44,7 @@ Number of sections from the file ENCFF000AKW that intersect with the file ENCFF1
 ![](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2017.41.03.png)  |  ![](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2017.41.15.png)
 
 
-**For ENCFF000AKV sample**
+** For ENCFF000AKV sample**
 Number of sections from the file ENCFF000AKV that intersect with the file ENCFF130IOE              |  Number of sections from the file ENCFF130IOE that intersect with the file ENCFF000AKV
 :-------------------------:|:-------------------------:
 ![](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2017.41.28.png)  |  ![](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2017.41.42.png)
