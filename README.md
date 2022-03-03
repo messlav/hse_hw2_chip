@@ -30,7 +30,7 @@ Link to colab https://colab.research.google.com/drive/1AZk_gHZ4z72G-jK_QN-V5yyJ_
    ![alt text](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2015.53.32.png)  ![alt text](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2015.53.36.png)
  ![alt text](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2015.53.42.png)  ![alt text](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2015.53.49.png)
  
- ##Table with statistic for all 3 samples**
+ ## Table with statistic for all 3 samples**
  ![alt text](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2017.26.42.png)
  
  **Почему процент выравниваний получился именно таким?**
@@ -44,7 +44,7 @@ Number of sections from the file ENCFF000AKW that intersect with the file ENCFF1
 ![](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2017.41.03.png)  |  ![](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2017.41.15.png)
 
 
-** For ENCFF000AKV sample**
+**For ENCFF000AKV sample**
 Number of sections from the file ENCFF000AKV that intersect with the file ENCFF130IOE              |  Number of sections from the file ENCFF130IOE that intersect with the file ENCFF000AKV
 :-------------------------:|:-------------------------:
 ![](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2017.41.28.png)  |  ![](https://github.com/messlav/hse_hw2_chip/blob/main/imgs/Снимок%20экрана%202022-03-03%20в%2017.41.42.png)
